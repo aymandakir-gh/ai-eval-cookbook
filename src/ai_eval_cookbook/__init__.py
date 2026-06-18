@@ -6,4 +6,4 @@ or other LLM component is conceptually required, a deterministic offline default
 that everything runs without network access or API keys.
 """
 
-__version__ = "0.0.0"
+__version__ = "0.1.0"
